@@ -1,0 +1,23 @@
+{
+  "name": "u-vote-it",
+  "version": "1.0.0",
+  "description": "A Node/Express app using MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/branjames117/u-vote-it.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/branjames117/u-vote-it/issues"
+  },
+  "homepage": "https://github.com/branjames117/u-vote-it#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
